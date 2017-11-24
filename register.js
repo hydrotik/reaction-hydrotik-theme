@@ -14,7 +14,9 @@ Reaction.registerPackage({
   autoEnable: true,
 
   // Settings for plugin
-  settings: {},
+  settings: {
+    
+  },
 
   // Routes and other registry items related to layout
   registry: []
