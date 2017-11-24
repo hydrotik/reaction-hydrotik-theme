@@ -1,4 +1,4 @@
-##Reaction Theme Customization Exercise for version 1.5.10
+###Reaction Theme Customization Exercise for version 1.5.10
 
 
 
